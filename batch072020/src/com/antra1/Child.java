@@ -1,7 +1,7 @@
 package com.antra1;
 
 public class Child extends Parent{
-
+//new child
 	int childJ=89;
 	int i=20;
 	public void childM1() {
